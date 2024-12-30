@@ -33,7 +33,6 @@ This repository provides an end-to-end pipeline for fuzzy clustering on multi-vi
 
 ```text
 multi_view_fuzzy_clustering/
-├── __init__.py              # Package initialization (optional)
 ├── data_utils.py            # Data loading & preprocessing functions
 ├── fuzzy_system.py          # TSK fuzzy system logic (classes + functions)
 ├── representations.py       # Shared & specific representation extraction
